@@ -1,2 +1,1 @@
-# Battleship-game
-A program for game of Battleship in Python
+# Programming-Challenge-1
