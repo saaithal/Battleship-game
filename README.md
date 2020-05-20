@@ -14,10 +14,10 @@ Once in Target mode the computer pops off the next potential target off the stac
 Even though far from elegant, this algorithm produces signifincantly better results than random firing. It is, however, a long way from efficient as it has no concept of what constitutes a ship, and blindly needs to walk around all surrounding edges of every hit pixel (with the exception of the last hit one), making sure there are no more ships touching.
 
 
-## Reference
+## References
 http://datagenetics.com/blog/december32011/index.html
 
-## Contributer
+## Contributers
 Manikanta Chinta https://www.linkedin.com/in/manikanta-chinta/
 
 Sameeksha Aithal https://www.linkedin.com/in/sameeksha-aithal/
